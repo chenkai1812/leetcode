@@ -84,7 +84,7 @@ a = a.sorted { (lhs: aStruct, rhs: aStruct) -> Bool in
 * 16 - 3Sum Closest - Sort and 3 pointers
 * 15 - 3Sum - Sort or (Hash + Sort)
 * 80 - Remove Duplicates from Sorted Array II - Two Pointers
-* 18. 4Sum - Two Pointers
+* 18 - 4Sum - Two Pointers
 
 ## Binary Search
 * 69 - Sqrt(x)
