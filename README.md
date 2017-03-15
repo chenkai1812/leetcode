@@ -96,4 +96,9 @@ a = a.sorted { (lhs: aStruct, rhs: aStruct) -> Bool in
 * 153. Find Minimum in Rotated Sorted Array
 * 33. Search in Rotated Sorted Array
 
+## Bit & Math
+* 231. Power of Two
+* 62. Unique Paths - DP
+
+
 [1]:	https://oleb.net/blog/2016/08/swift-3-strings/
