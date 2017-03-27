@@ -5,6 +5,15 @@
 
 ## Code
 
+### Character
+
+```swift
+let startingValue = Int(("A" as UnicodeScalar).value) // 65
+for i in 0 ..< 26 {
+    print(Character(UnicodeScalar(i + startingValue)!))
+}
+```
+
 ### Sort String
 
 ```swift
